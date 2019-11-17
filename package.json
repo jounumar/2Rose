@@ -10,7 +10,7 @@
     "canvas": "^1.6.11",
     "discord.js": "^11.3.2",
     "discord.js-musicbot-addon": "^12.0.6",
-    "express": "~3.2.4",
+    "express": "~4.17.1",
     "ffmpeg-binaries": "^3.2.2-3",
     "fs": "0.0.1-security",
     "fs-extra": "^6.0.1",
